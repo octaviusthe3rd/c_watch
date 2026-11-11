@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348243571263",
+    "project_id": "c-watch-57d8d",
+    "storage_bucket": "c-watch-57d8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348243571263:android:c0e74268c1dbb2f4c8be8a",
+        "android_client_info": {
+          "package_name": "com.example.c_watch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT8ofquqKXe1DTXWmpSZdfLlrXqGHbGN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
